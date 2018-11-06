@@ -1,0 +1,27 @@
+[
+  {
+    "authors": [
+      "Beatriz Milz"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1539745200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540432839,
+    "objectID": "10ad315edab88e427921eab10f948729",
+    "permalink": "/talk/rmmp/",
+    "publishdate": "2018-10-17T00:00:00-03:00",
+    "relpermalink": "/talk/rmmp/",
+    "section": "talk",
+    "summary": "Apresentação realizada na Oficina de Introdução ao Software R, sobre possibilidades de utilização do R para superar desafios presentes no [Projeto Temático Governança ambiental da macrometrópole paulista face à variabilidade climática](https://bv.fapesp.br/pt/auxilios/97000/governanca-ambiental-da-macrometropole-paulista-face-a-variabilidade-climatica/). ",
+    "tags": [
+      "R",
+      "Projeto Temático",
+      "Governança Ambiental"
+    ],
+    "title": "R e Desafios no Projeto Temático",
+    "type": "talk"
+  }
+]
