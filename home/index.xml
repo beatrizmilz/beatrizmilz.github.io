@@ -18,7 +18,19 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description> Conselheira titular representante da Sociedade Civil do Conselho Regional de Meio Ambiente, Desenvolvimento sustentável e Cultura de Paz da Prefeitura Regional de Cidade Ademar (CADES/AD) para o período de 2017-2019. Editora Assistente da Revista Ambiente &amp;amp; Sociedade. Aprendiz de R. Participante do R-Ladies São Paulo. Currículo Lattes.  </description>
+      <description> Currículo Lattes. Aprendiz e entusiasta de R. Participante do R-Ladies São Paulo. Editora Assistente da Revista Ambiente &amp;amp; Sociedade. Conselheira titular representante da Sociedade Civil do Conselho Regional de Meio Ambiente, Desenvolvimento sustentável e Cultura de Paz da Prefeitura Regional de Cidade Ademar (CADES/AD) para o período de 2017-2019.  </description>
+    </item>
+    
+    <item>
+      <title>Próximas atividades</title>
+      <link>/home/proximasatividades/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/proximasatividades/</guid>
+      <description>São Paulo, 21/11/2018 - Meet-up R-Ladies São Paulo Apresentação: Comunicando seus resultados e criando apresentações com R
+ Saiba mais   
+ São Bernardo do Campo, 29/11/2018, UFABC Oficina de Introdução ao Software R
+ Saiba mais</description>
     </item>
     
     <item>
@@ -31,7 +43,7 @@
     </item>
     
     <item>
-      <title>Posts recentes</title>
+      <title>Posts</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
@@ -55,6 +67,18 @@
       
       <guid>/home/talks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/home/github/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/github/</guid>
+      <description>Materiais de estudo R  Repositório com diversos links de materiais para estudo de R: livros, cheatsheets, cursos, entre outros.
+ Acessibilidade web  Repositório com diversos links de materiais para estudo sobre acessibilidade web.
+ Dados de orçamento da Prefeitura de São Paulo  Projeto em elaboração, com o objetivo de facilitar o acesso e visualização dos dados de execução orçamentária da Prefeitura Municipal de São Paulo.
+  </description>
     </item>
     
     <item>
