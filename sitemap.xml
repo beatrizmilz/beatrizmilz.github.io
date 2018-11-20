@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/talk/3_rladies_sp/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/em-breve/</loc>
       <lastmod>2018-11-14T11:48:38-02:00</lastmod>
     </url>
@@ -104,7 +112,43 @@
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2018-11-06T10:41:10-02:00</lastmod>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r-ladies/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r-ladies-s%C3%A3o-paulo/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/rstudio/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/rstats/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -114,6 +158,15 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-11-06T10:41:10-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/xaringan/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
       <priority>0</priority>
     </url>
     
