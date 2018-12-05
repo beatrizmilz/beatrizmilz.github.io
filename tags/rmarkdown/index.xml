@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmarkdown on Beatriz Milz</title>
+    <link>/tags/rmarkdown/</link>
+    <description>Recent content in Rmarkdown on Beatriz Milz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 -0200</lastBuildDate>
+    
+	<atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Producing Reports with knitr and R [EN]</title>
+      <link>/talk/codatasp18/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/codatasp18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

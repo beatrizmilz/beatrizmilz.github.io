@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>/talk/codatasp18/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/em-breve/</loc>
       <lastmod>2018-11-14T11:48:38-02:00</lastmod>
     </url>
@@ -102,6 +110,15 @@
     
     <url>
     
+      <loc>/tags/knitr/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/projeto-tem%C3%A1tico/</loc>
       <lastmod>2018-11-29T00:00:00-02:00</lastmod>
       <priority>0</priority>
@@ -147,6 +164,15 @@
     <url>
     
       <loc>/tags/rstudio/</loc>
+      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/rmarkdown/</loc>
       <lastmod>2018-11-21T00:00:00-02:00</lastmod>
       <priority>0</priority>
     </url>
