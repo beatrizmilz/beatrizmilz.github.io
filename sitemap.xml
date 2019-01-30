@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/6-meses-de-r/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/oficina_intro_r_ufabc_2018/</loc>
       <lastmod>2018-11-29T00:00:00-02:00</lastmod>
     </url>
@@ -13,7 +21,7 @@
     <url>
     
       <loc>/talk/3_rladies_sp/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
     </url>
     
   
@@ -36,16 +44,8 @@
     
     <url>
     
-      <loc>/post/em-breve/</loc>
-      <lastmod>2018-11-14T11:48:38-02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/rmmp/</loc>
-      <lastmod>2018-11-06T10:41:10-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
     </url>
     
   
@@ -92,6 +92,15 @@
     
     <url>
     
+      <loc>/tags/aprendizado/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2018-11-14T11:48:38-02:00</lastmod>
       <priority>0</priority>
@@ -102,6 +111,15 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ensino/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,8 +162,17 @@
     
     <url>
     
+      <loc>/categories/r/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/r/</loc>
-      <lastmod>2018-11-29T00:00:00-02:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,7 +181,7 @@
     <url>
     
       <loc>/tags/r-ladies/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -163,7 +190,7 @@
     <url>
     
       <loc>/tags/r-ladies-s%C3%A3o-paulo/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,7 +199,7 @@
     <url>
     
       <loc>/tags/rstudio/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +217,7 @@
     <url>
     
       <loc>/tags/rstats/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,7 +226,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-11-29T00:00:00-02:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,7 +235,7 @@
     <url>
     
       <loc>/tags/xaringan/</loc>
-      <lastmod>2018-11-21T00:00:00-02:00</lastmod>
+      <lastmod>2018-11-19T21:40:33-02:00</lastmod>
       <priority>0</priority>
     </url>
     

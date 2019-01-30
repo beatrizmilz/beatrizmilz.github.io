@@ -11,6 +11,61 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Meio ano de aprendizagem de R!</title>
+      <link>/post/6-meses-de-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/6-meses-de-r/</guid>
+      <description>
+
+&lt;p&gt;Neste texto, gostaria de compartilhar um pouco sobre os primeiros seis meses de aprendizagem em programação, principalmente na linguagem R, e também agradecer a todos que participaram deste aprendizado.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-surgiu-o-interesse-em-aprender-r&#34;&gt;Como surgiu o interesse em aprender R?&lt;/h2&gt;
+
+&lt;p&gt;Meu nome é Beatriz, e a minha graduação foi em Gestão Ambiental. Porém, quando estava no mestrado, precisava utilizar a linguagem R para realizar análises estatísticas com os dados que coletei. Nunca me imaginei aprendendo a programar, e até tentei utilizar sozinha o R em 2017 (sem o RStudio), mas tive muita dificuldade. Então outra pessoa me ajudou com essas análises.&lt;/p&gt;
+
+&lt;p&gt;Depois que conclui o mestrado, no segundo semestre de 2018, passei alguns meses me preparando e participando do processo seletivo do doutorado, e pensei que seria uma boa época para tentar aprender a &amp;ldquo;mexer com o R&amp;rdquo;. Eu queria conseguir fazer minhas próprias análises estatísticas sozinha! Perguntei para uma amiga, a &lt;a href=&#34;https://github.com/analuspi&#34; target=&#34;_blank&#34;&gt;Ana Lu&lt;/a&gt;, e ela me deu algumas dicas.&lt;/p&gt;
+
+&lt;h2 id=&#34;r-ladies&#34;&gt;R-Ladies&lt;/h2&gt;
+
+&lt;p&gt;Eu e a Ana ficamos sabendo que iria acontecer o primeiro encontro do &lt;a href=&#34;https://www.meetup.com/R-Ladies-Sao-Paulo&#34; target=&#34;_blank&#34;&gt;R-Ladies de São Paulo&lt;/a&gt;, que é uma organização que promove a diversidade de gênero na comunidade da linguagem R. Fiquei super animada,  porém como não sabia naaaada ainda, eu corri e fiz o curso introdutório de R no &lt;a href=&#34;https://www.datacamp.com/&#34; target=&#34;_blank&#34;&gt;Datacamp&lt;/a&gt; (esse é gratuito!), a tempo de participar do meetup. Eu e a Ana Lu participamos deste encontro e conhecemos outras mulheres que programam ou estavam interessadas em aprender a programar em R.
+&lt;center&gt;&lt;strong&gt;Primeiro Meetup do R-Ladies em São Paulo:&lt;/strong&gt;&lt;/center&gt;
+&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/3/d/d/5/highres_473775829.jpeg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;O primeiro meetup do R-Ladies foi muito especial para mim. Eu sabia tão pouco, e me senti em um ambiente super seguro e confortável para fazer as perguntas que tinha.O R-Ladies desde o começo foi um grupo onde me sentia confortável, segura, e havia uma troca muito grande de conhecimento. Considero que muito do que já aprendi sobre R eu quero agradecer à comunidade R-Ladies e todas as participantes do grupo de São Paulo. Então desde outubro de 2018 venho auxiliado na organização dos encontros, o que tem sido uma experiência super interessante, além de ser uma forma de retribuir o que eu tenho recebido!&lt;/p&gt;
+
+&lt;h2 id=&#34;cursos&#34;&gt;Cursos&lt;/h2&gt;
+
+&lt;p&gt;De agosto para cá tive a oportunidade de fazer outros cursos, porém o que considero um &amp;ldquo;divisor de águas&amp;rdquo; na minha aprendizagem sobre R foi o de &lt;a href=&#34;https://www.curso-r.com/cursos/intro-r/&#34; target=&#34;_blank&#34;&gt;Introdução à Programação em R&lt;/a&gt;, da &lt;a href=&#34;https://www.curso-r.com/&#34; target=&#34;_blank&#34;&gt;Curso-R&lt;/a&gt;, devido a uma bolsa de diversidade de gênero que recebi e agradeço MUITO por essa oportunidade. Agradeço também a &lt;a href=&#34;https://github.com/MaryMS/&#34; target=&#34;_blank&#34;&gt;Maria&lt;/a&gt; pela companhia! Neste curso, além de aprender bastante e fazer miillllll perguntass (e agradeço os professores por também oferecerem um ambiente onde me sentisse confortável de perguntar tudo tudo tudo que tinha dúvida ou curiosidade), eu também saí de lá super empolgada em aprender mais sobre R.&lt;/p&gt;
+
+&lt;p&gt;Atualmente estou me dedicando em realizar cursos no &lt;a href=&#34;https://www.datacamp.com/&#34; target=&#34;_blank&#34;&gt;Datacamp&lt;/a&gt; , pois em novembro fui contemplada com 3 meses de acesso através de uma bolsa de estudos para mulheres e minorias de gênero (DataCamp Scholarship for Women and Gender Minorities).&lt;/p&gt;
+
+&lt;h2 id=&#34;eventos&#34;&gt;Eventos&lt;/h2&gt;
+
+&lt;p&gt;Além dos cursos, alguns eventos também foram uma ótima oportunidade para aprender mais sobre o R e programação. A &lt;a href=&#34;https://www.ime.usp.br/~amostra/&#34; target=&#34;_blank&#34;&gt;13a aMostra Estatística&lt;/a&gt; que aconteceu no IME/USP foi um evento muito interessante onde tive a oportunidade de participar de 3 mini-cursos oferecidos pela &lt;a href=&#34;https://www.curso-r.com/&#34; target=&#34;_blank&#34;&gt;Curso-R&lt;/a&gt;: Exploratory Data Analisys, Shiny e Rmarkdown.  Agradeço a organização deste evento por oferecer um conteúdo tão legal e gratuito!&lt;/p&gt;
+
+&lt;p&gt;Em novembro também fui contemplada com uma &lt;a href=&#34;https://escoladedados.org/2018/10/confira-a-lista-dos-selecionados-para-as-bolsas-de-jovens-comunicadores-do-coda-br/&#34; target=&#34;_blank&#34;&gt;bolsa para jovens comunicadores&lt;/a&gt; e tive a oportunidade de participar do evento &lt;a href=&#34;https://coda.escoladedados.org/&#34; target=&#34;_blank&#34;&gt;Coda BR&lt;/a&gt;. Eu fiquei tão feliz de poder participar deste evento, que mal tenho palavras para explicar como foi especial. Apesar de ter assistido conteúdo sobre R, o CODA BR foi muito além de programação: conheci mais sobre jornalismo de dados, tive a oportunidade de assistir palestras de especialistas nacionais e internacionais, conhecer pessoas que já admirava (a emoção de conhecer o Turicas, que eu admirava e conhecia através de podcasts e do trabalho no &lt;a href=&#34;https://brasil.io/home&#34; target=&#34;_blank&#34;&gt;Brasil.IO&lt;/a&gt;), e principalmente conhecer muitas pessoas interessantes que depois se tornaram muito queridas para mim e que também fazem parte desta jornada.&lt;/p&gt;
+
+&lt;h2 id=&#34;ensinando-r&#34;&gt;Ensinando R?&lt;/h2&gt;
+
+&lt;p&gt;Também tive a oportunidade de ensinar outras pessoas sobre R. Acredito que, mesmo que ainda não sejamos experts, podemos compartilhar o que aprendemos com outras pessoas que também estão nessa caminhada. Além disso, descobri que ensinar outras pessoas é uma ótima forma de aprender mais também, principalmente pois quando preparo uma apresentação, eu pesquiso bastante e acabo aprendendo coisas novas (e tento sempre colocar as &lt;a href=&#34;https://beatrizmilz.github.io/talk/&#34; target=&#34;_blank&#34;&gt;apresentações neste site&lt;/a&gt; para facilitar que outras pessoas tenham acesso).&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;R-Ladies no &lt;a href=&#34;http://www.ictp-saifr.org/2018-codata-rda-school-of-research-data-science/&#34; target=&#34;_blank&#34;&gt;CODATA&lt;/a&gt;, em São Paulo:&lt;/strong&gt;&lt;/center&gt;
+&lt;img src=&#34;/post/rladies_codata.JPG&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusão&#34;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Ainda tenho muito para aprender sobre R. Ainda tenho muita dificuldade em estatística (mas descobri que tenho mais facilidade em outras tarefas que fazemos com R!). Espero aprender muito ainda, e compartilhar muito conhecimento também. Desejo contribuir para que a comunidade R-Ladies cresça, e retribuir, mesmo que apenas parcialmente, tudo o que recebi neste tempo e de alguma forma me ajudou nesta trajetória.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gratidão&lt;/strong&gt; à todos que contribuíram de alguma forma nessa caminhada em programação!&lt;/p&gt;
+
+&lt;p&gt;E para fechar o post, coloco uma foto de recordação que significa muito para mim e simboliza a minha evolução neste meio ano.
+&lt;center&gt;&lt;strong&gt;Eu e a camiseta que recebi por ter participado da Hacktoberfest  de 2018:&lt;/strong&gt;&lt;/center&gt;
+&lt;img src=&#34;/post/hacktoberfest.JPG&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Oficina de Introdução ao Software R - UFABC</title>
       <link>/talk/oficina_intro_r_ufabc_2018/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 -0200</pubDate>
@@ -44,15 +99,6 @@
       <pubDate>Wed, 21 Nov 2018 00:00:00 -0200</pubDate>
       
       <guid>/talk/codata_rladies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Em Breve</title>
-      <link>/post/em-breve/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/em-breve/</guid>
       <description></description>
     </item>
     
