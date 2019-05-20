@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description> Pesquisadora no Projeto Temático FAPESP Governança ambiental da macrometrópole paulista face à variabilidade climática - Processo FAPESP N15/03804-9. Entusiasta de R. Co-organizadora do Meetup R-Ladies São Paulo. Assessoria Editorial da Revista Ambiente &amp;amp; Sociedade. Conselheira titular representante da Sociedade Civil do Conselho Regional de Meio Ambiente, Desenvolvimento sustentável e Cultura de Paz da Prefeitura Regional de Cidade Ademar (CADES/AD) para o período de 2017-2019.  </description>
+      <description> Doutoranda em Ciência Ambiental - Instituto de Energia e Ambiente - Universidade de São Paulo (IEE/USP). Pesquisadora no Projeto Temático FAPESP Governança ambiental da macrometrópole paulista face à variabilidade climática - Processo FAPESP N15/03804-9. Entusiasta de R. Co-organizadora do Meetup R-Ladies São Paulo. Secretaria Executiva da Revista Ambiente &amp;amp; Sociedade.  </description>
     </item>
     
     <item>
@@ -50,6 +50,17 @@
     </item>
     
     <item>
+      <title>Github</title>
+      <link>/home/github/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/github/</guid>
+      <description>Materiais de estudo R  Repositório com diversos links de materiais para estudo de R: livros, cheatsheets, cursos, entre outros.
+ Arquivos R-Ladies São Paulo  Repositório com as apresentações realizadas nos eventos R-Ladies São Paulo.
+  </description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
@@ -65,18 +76,6 @@
       
       <guid>/home/talks/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>/home/github/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
-      
-      <guid>/home/github/</guid>
-      <description>Materiais de estudo R  Repositório com diversos links de materiais para estudo de R: livros, cheatsheets, cursos, entre outros.
- Acessibilidade web  Repositório com diversos links de materiais para estudo sobre acessibilidade web.
- Dados de orçamento da Prefeitura de São Paulo  Projeto em elaboração, com o objetivo de facilitar o acesso e visualização dos dados de execução orçamentária da Prefeitura Municipal de São Paulo.
-  </description>
     </item>
     
     <item>
@@ -104,6 +103,15 @@
       
       <guid>/home/talks_selected/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/mensagem_fapesp/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/mensagem_fapesp/</guid>
+      <description>&amp;ldquo;As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da FAPESP&amp;rdquo;</description>
     </item>
     
     <item>

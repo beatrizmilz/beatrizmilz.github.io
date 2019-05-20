@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 -0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IV SER UFF - Comunicando seus resultados: Criando apresentações com R</title>
+      <link>/talk/ser_uff_rladiessp/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/ser_uff_rladiessp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comunicando seus resultados e criando apresentações com R</title>
