@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Beatriz Milz</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Beatriz Milz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atualização da página</title>
+      <link>/2019/06/23/atualizacao/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/23/atualizacao/</guid>
+      <description>A página está sendo atualizada, e alguns conteúdos serão inseridos posteriormente. Anteriormente eu utilizava o tema Academic, porém resolvi mudar para o tema Lithium.</description>
+    </item>
+    
+    <item>
+      <title>Meio ano de aprendizagem de R!</title>
+      <link>/2019/01/29/6-meses-de-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/29/6-meses-de-r/</guid>
+      <description>Neste texto, gostaria de compartilhar um pouco sobre os primeiros seis meses de aprendizagem em programação, principalmente na linguagem R, e também agradecer a todos que participaram deste aprendizado.
+Como surgiu o interesse em aprender R?Meu nome é Beatriz, e a minha graduação foi em Gestão Ambiental. Porém, quando estava no mestrado, precisava utilizar a linguagem R para realizar análises estatísticas com os dados que coletei. Nunca me imaginei aprendendo a programar, e até tentei utilizar sozinha o R em 2017 (sem o RStudio), mas tive muita dificuldade.</description>
+    </item>
+    
+  </channel>
+</rss>

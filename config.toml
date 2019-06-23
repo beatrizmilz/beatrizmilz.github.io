@@ -1,0 +1,52 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Beatriz Milz"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Sobre/About"
+    url = "/about/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Apresentações/Presentations"
+    url = "/slides/" 
+    weight = 2
+    
+[[menu.main]]
+    name = "Contato/Contact"
+    url = "/contact/" 
+    weight = 3    
+    
+[[menu.main]]
+    name = "CV/Resume"
+    url = "https://beatrizmilz.github.io/resume/index.pdf"
+    weight = 4
+
+[params]
+    description = "Página pessoal de Beatriz Milz"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "logo.png"
+    width = 100
+    height = 100
+    alt = "Logo"
+

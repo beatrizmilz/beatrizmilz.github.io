@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beatriz Milz</title>
+    <link>/</link>
+    <description>Recent content on Beatriz Milz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atualização da página</title>
+      <link>/2019/06/23/atualizacao/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/23/atualizacao/</guid>
+      <description>A página está sendo atualizada, e alguns conteúdos serão inseridos posteriormente. Anteriormente eu utilizava o tema Academic, porém resolvi mudar para o tema Lithium.</description>
+    </item>
+    
+    <item>
+      <title>Meio ano de aprendizagem de R!</title>
+      <link>/2019/01/29/6-meses-de-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/29/6-meses-de-r/</guid>
+      <description>Neste texto, gostaria de compartilhar um pouco sobre os primeiros seis meses de aprendizagem em programação, principalmente na linguagem R, e também agradecer a todos que participaram deste aprendizado.
+Como surgiu o interesse em aprender R?Meu nome é Beatriz, e a minha graduação foi em Gestão Ambiental. Porém, quando estava no mestrado, precisava utilizar a linguagem R para realizar análises estatísticas com os dados que coletei. Nunca me imaginei aprendendo a programar, e até tentei utilizar sozinha o R em 2017 (sem o RStudio), mas tive muita dificuldade.</description>
+    </item>
+    
+    <item>
+      <title>Apresentações/Presentations</title>
+      <link>/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/</guid>
+      <description> Português  Em breve!   English  Comming soon  </description>
+    </item>
+    
+    <item>
+      <title>Beatriz Milz</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Português  Pesquisadora no Projeto Temático FAPESP Governança ambiental da macrometrópole paulista face à variabilidade climática - Processo FAPESP N15/03804-9.
+ Entusiasta de R.
+ Co-organizadora do Meetup R-Ladies São Paulo.
+ Secretária Executiva da Revista Ambiente &amp;amp; Sociedade.
+  English  Comming soon  </description>
+    </item>
+    
+    <item>
+      <title>Contato/Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>  beatriz.milz@usp.br
+  Github: beatrizmilz
+  Lattes CNPQ
+  Linkedin
+ For more information, please contact me via email.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
