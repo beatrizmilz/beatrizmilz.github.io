@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/06/23/atualizacao/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
@@ -11,6 +16,16 @@
     <loc>/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -46,18 +61,6 @@
     <loc>/tags/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
   </url>
   
 </urlset>
