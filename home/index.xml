@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Beatriz Milz</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Beatriz Milz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 -0200</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description> Pesquisadora no Projeto Temático FAPESP Governança ambiental da macrometrópole paulista face à variabilidade climática - Processo FAPESP N15/03804-9. Entusiasta de R. Co-organizadora do Meetup R-Ladies São Paulo. Editora Assistente da Revista Ambiente &amp;amp; Sociedade.
+ Currículo Lattes.
+  </description>
+    </item>
+    
+    <item>
+      <title>Próximas atividades</title>
+      <link>/home/proximasatividades/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/proximasatividades/</guid>
+      <description>São Bernardo do Campo, 29/11/2018, UFABC Oficina de Introdução ao Software R
+ Saiba mais</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apresentações</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/home/github/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0200</pubDate>
+      
+      <guid>/home/github/</guid>
+      <description>Materiais de estudo R  Repositório com diversos links de materiais para estudo de R: livros, cheatsheets, cursos, entre outros.
+ Acessibilidade web  Repositório com diversos links de materiais para estudo sobre acessibilidade web.
+ Dados de orçamento da Prefeitura de São Paulo  Projeto em elaboração, com o objetivo de facilitar o acesso e visualização dos dados de execução orçamentária da Prefeitura Municipal de São Paulo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Experiência profissional</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to xxxx CS102: An intro to xxxx CS103: An intro to xxxx CS104: An intro to xxxx CS105: An intro to xxxx CS106: An intro to xxxx CS107: An intro to xxxx  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procure aqui...</title>
+      <link>/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
