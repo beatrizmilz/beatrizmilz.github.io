@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/bea-blog/content/post",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
